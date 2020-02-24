@@ -1,0 +1,6 @@
+framework module Pods_SJSUSRAC_SJSUSRACUITests {
+  umbrella header "Pods-SJSUSRAC-SJSUSRACUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
